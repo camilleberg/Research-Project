@@ -1,1 +1,1 @@
-# Kernel-Methods-Project
+# Research Project Repo For Organization Process
